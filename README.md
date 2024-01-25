@@ -11,3 +11,5 @@
 
 <img alt="Maksym's GitHub stats"
 src="https://github-readme-stats.vercel.app/api?username=MaksymRudnyi&show_icons=true&theme=transparent"/>
+
+<a href="https://u8views.com/github/theendofline"><img src="https://u8views.com/api/v1/github/profiles/19670612/views/day-week-month-total-count.svg"></a>
