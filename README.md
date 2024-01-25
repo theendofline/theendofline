@@ -9,7 +9,20 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theendofline&layout=compact" />
 </a>
 
-<img alt="Maksym's GitHub stats"
-src="https://github-readme-stats.vercel.app/api?username=MaksymRudnyi&show_icons=true&theme=transparent"/>
+### This is the Way...
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/theendofline/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=theendofline&show_icons=true&theme=dracula" />
+      </a>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theendofline&layout=compact" />
+    </td>
+  </tr>
+</table>
+
 
 <a href="https://u8views.com/github/theendofline"><img src="https://u8views.com/api/v1/github/profiles/19670612/views/day-week-month-total-count.svg"></a>
