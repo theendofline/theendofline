@@ -8,3 +8,6 @@
 <a href="https://github.com/theendofline/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theendofline&layout=compact" />
 </a>
+
+<img alt="Maksym's GitHub stats"
+src="https://github-readme-stats.vercel.app/api?username=MaksymRudnyi&show_icons=true&theme=transparent"/>
